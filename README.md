@@ -39,7 +39,7 @@ cv2.imwrite('result.jpg', enhanced)
 ### Visual Results
 
 #### Benign Lung Tissues
-![Benign Lung ](Result\Figure_1.png)
+![Benign Lung ](Result/Figure_1.png)
 
 
 
