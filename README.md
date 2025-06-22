@@ -22,12 +22,12 @@ pip install bm3d
 ```
 
 ## 🚀 Installation Prerequisites :
-Python 3.7+
-NumPy
-SciPy
-OpenCV
-Matplotlib
-scikit-image
+- Python 3.7+
+- NumPy
+- SciPy
+- OpenCV
+- Matplotlib
+- scikit-image
 ## Quick Usage
 
 ```python
