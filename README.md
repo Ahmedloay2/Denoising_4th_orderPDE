@@ -80,7 +80,7 @@ cv2.imwrite('result.jpg', enhanced)
 
 ### Performance Graphs
 
-![Performance Metrics Comparison](images/performance_graphs.png)
+![Performance Metrics Comparison](Result/Figure_3.png)
 *Line plots showing PSNR, SSIM, MSE, NAE, CC, and UQI improvements across processing stages*
 
 ### Key Metrics Explanation
