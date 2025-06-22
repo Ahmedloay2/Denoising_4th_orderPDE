@@ -12,15 +12,6 @@ Removes Poisson noise from lung cancer biopsy images while preserving diagnostic
 - 95%+ accuracy across noise levels 1-8
 - Works on lung and colon cancer biopsies
 
-## Installation
-
-```bash
-git clone https://github.com/yourusername/aco-rfpde-denoising.git
-cd aco-rfpde-denoising
-pip install -r requirements.txt
-pip install bm3d
-```
-
 ## 🚀 Installation Prerequisites :
 - Python 3.7+
 - NumPy
@@ -48,19 +39,11 @@ cv2.imwrite('result.jpg', enhanced)
 ### Visual Results
 
 #### Benign Lung Tissues
-![Benign Lung - Noise Level 4](images/benign_lung_level4.png)
-*Left: Original → Noisy (Level 4) | Right: ACO-RFPDE → BM3D Enhanced*
+![Benign Lung ](Result\Figure_1.png)
 
-![Benign Lung - Noise Level 6](images/benign_lung_level6.png)
-*Left: Original → Noisy (Level 6) | Right: ACO-RFPDE → BM3D Enhanced*
 
-#### Lung Adenocarcinomas
-![Adenocarcinoma - Noise Level 4](images/adenocarcinoma_level4.png)
-*Left: Original → Noisy (Level 4) | Right: ACO-RFPDE → BM3D Enhanced*
 
-#### Lung Squamous Cell Carcinomas
-![Squamous Cell - Noise Level 4](images/squamous_level4.png)
-*Left: Original → Noisy (Level 4) | Right: ACO-RFPDE → BM3D Enhanced*
+
 
 ### Performance Metrics
 
