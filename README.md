@@ -1,3 +1,13 @@
+## Authors
+
+**Cairo University - Biomedical Engineering Department**
+- Ahmed Loay ElSayed
+- Lyan Ahmed Mohsen  
+- Sarah Sameh Mohamed
+- Mariam Sherif Mohamed
+- Alhussien Ayman Hanafy
+
+
 # ACO-RFPDE Biopsy Image Denoising
 
 A novel framework for denoising Poisson-corrupted microscopic biopsy images using **Ant Colony Optimization** and **Fourth-Order Partial Differential Equations**.
@@ -106,11 +116,3 @@ Uses **LC25000** dataset with lung and colon cancer histopathological images.
 }
 ```
 
-## Authors
-
-**Cairo University - Biomedical Engineering Department**
-- Ahmed Loay ElSayed
-- Lyan Ahmed Mohsen  
-- Sarah Sameh Mohamed
-- Mariam Sherif Mohamed
-- Alhussien Ayman Hanafy
