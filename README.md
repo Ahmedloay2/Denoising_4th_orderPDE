@@ -105,14 +105,4 @@ cv2.imwrite('result.jpg', enhanced)
 
 Uses **LC25000** dataset with lung and colon cancer histopathological images.
 
-## Citation
-
-```bibtex
-@article{elsayed2024denoising,
-  title={Denoising Of Poisson-Corrupted Biopsy Images},
-  author={ElSayed, Ahmed Loay and Mohsen, Lyan Ahmed and Mohamed, Sarah Sameh and Mohamed, Mariam Sherif and Hanafy, Alhussien Ayman},
-  journal={Cairo University},
-  year={2024}
-}
-```
 
